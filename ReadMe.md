@@ -8,11 +8,11 @@ This respository aims to expand upon the publicly available history for Jud Newe
 
 ## My Personal Perspective from 1982 Onwards
 
-The concept of a dial-up BBS in Toronto really did not exist until 1981 and into 1982 when home computers with 300/1200 baud acousticlly coupled modems started to become available to  the general "computing enthusiasts". At that time the Toronto hobbyist/business market was generally focused on the TRS-80, Apple II, PET, Exidy Sorcerer, Heathkit H8 and IMSAI 8080 machines. This was a few years before the "big BBS" scene kicked in during the mid 1980's. Most Toronto start-up BBS's were hosted by a guy in his house (or a local computer shop) who might have his CP/M S-100, PET, Apple II or TRS-80 Model II computer online for people to phone in and access. In the 1970s a select few people had the opportunity to do dial-up communications at 75, 110 or 300 baud to their local universities from a remote dumb terminal and modem. Dial-up was still the norm for communications into the late 1990s but at speeds closing out at 56.6kbps.
+The concept of a dial-up BBS in Toronto really did not exist until 1981 and into 1982 when home computers with 300/1200 baud acousticlly coupled modems started to become available to  the general "computing enthusiasts". At that time the Toronto hobbyist/business market was generally focused on the TRS-80, Apple, Commodore PET, Exidy Sorcerer, Heathkit H8 and IMSAI 8080 machines. This was a few years before the "big BBS" scene kicked in during the mid 1980's. Most Toronto start-up BBS's were hosted by a guy in his house (or a local computer shop) who might have his CP/M S-100, PET, Apple II or TRS-80 Model II computer online for people to phone in and access. In the 1970s a select few people had the opportunity to do dial-up communications at 75, 110 or 300 baud to their local universities from a remote dumb terminal and modem. Dial-up was still the norm for communications into the late 1990s but at much higher speeds closing out at 56.6kbps.
 
 For some perspective of that 1982 era, using my 300 baud acoustically coupled modem, it would take 60mins to download 100k of data (not 100MB!), and that was is if someone did not pick up the phone and destroy the connection. You would be lucky if you could even log into "Mississauga RCP/M" each evening given that it only had one incoming phone line. 
 
-In February 1980 I had opted to build my own modem based on the "Mickey Modem" design in the November 1978 issue of Kilobaud Microcomputing Magazine. However, it did not work and hence I chose to purchase a Livermore Star acousticlly coupled modem in Decembder 1981 for CDN$129. It was connected to my [Exidy Sorcerer](https://github.com/rcl9/Imagery-of-Past-Projects/blob/main/Hardware/1980%20-%20Fan%20enclosure%20for%20very%20hot%20Exidy%20Sorcerer.jpg) computer via the RS-232 port of my Morrow DISCUS 2D 8" drive [S-100 controller card](https://github.com/rcl9/Morrow-DJ2D-CPM-22-Recompile-From-Source). 
+In February 1980 I had wanted to build my own modem based on the "Mickey Modem" design in the November 1978 issue of Kilobaud Microcomputing Magazine. However, it did not work and hence I chose to purchase a Livermore Star acousticlly coupled modem in December 1981 for CDN$129. It was connected to my [Exidy Sorcerer](https://github.com/rcl9/Imagery-of-Past-Projects/blob/main/Hardware/1980%20-%20Fan%20enclosure%20for%20very%20hot%20Exidy%20Sorcerer.jpg) computer via the RS-232 port of my Morrow DISCUS 2D 8" drive [S-100 controller card](https://github.com/rcl9/Morrow-DJ2D-CPM-22-Recompile-From-Source). 
 
 <div style="text-align:center">
 <img src="/Images/Prentice Star handset coupler modem.jpg" alt="" style="width:50%; height:auto;">
@@ -20,7 +20,7 @@ In February 1980 I had opted to build my own modem based on the "Mickey Modem" d
 
 ## The Toronto BBS Scene in February 1982
 
-On February 12 to 14 1982 I signed on to most of the known Toronto BBSs and printed out their basic system information and file catalogues from which I can write this historical overview. My first logons were as follows:
+On February 12 to 14 1982 I signed on to most of the known Toronto BBSs for the first time and printed out their basic system information and file catalogues to my MX-80 printer from which I can write this historical overview. My first logons were as follows:
 
 | BBS Name | First Logon  |
 | :----- | :--- | 
@@ -31,15 +31,15 @@ On February 12 to 14 1982 I signed on to most of the known Toronto BBSs and prin
 |Steve Punter's PSI/Wordpro BBS| February 14 1982|
 |Toronto Pet User's Group (Steve Punter BBS) |  February 14 1982 |
 
-The systems in general were pretty minimalistic in 1981-1982, basically allowing you to use their machines in a remote manner to review and download files, as well as do some basic messaging. But it was still better than not having remote system access at all prior to 1982. I recall how some of them were quite lacking and sparce (ie. Apple Canada and Heathkit, as after-hours company BBSs).
+The systems in general were pretty minimalistic in 1981-1982, basically allowing you to use their machines in a remote manner to review and download files, as well as do some basic messaging. But it was still better than not having remote system access at all prior to 1982. I recall at the time how some of them were quite lacking and sparce (ie. Apple Canada and Heathkit, as after-hours company BBSs).
 
-As a side note of interest, Steve Punter told me in February 2018 that he had visited Marketron (in Cumberland Terrace) to see the Toronto PET User's Group BBS on April 11th 1981. He had been so impressed with it that he wanted to run my own. Using some Radio Shack parts and some programming, he had his first BBS online by April 15th. Mississauga RCP/M followed two weeks later.
+As a side note of interest, Steve Punter told me in February 2018 that he had visited Marketron (in Cumberland Terrace) to see the Toronto PET User's Group BBS on April 11th 1981. He had been so impressed with it that he wanted to run my own. Using some Radio Shack parts and some programming, he had his first BBS online by April 15th. Jud Newell's Mississauga RCP/M followed two weeks later.
 
 ## Physical Company Locations
 
 | Year | Location  |
 | :----- | :--- | 
-|1981 | Newell's home bedroom in Mississauga (2 machines)|
+|May 1, 1981 | Newell's home bedroom in Mississauga (1 then 2 machines)|
 |1982 | Newell's home basement in Etobicoke (10 machines)|
 |April 1985 | 4198 Dundas Street West, Unit 311 (12 machines) |
 |March 1989 | 1331 Crestlawn Drive, Unit D, Mississauga|
@@ -58,9 +58,9 @@ As a side note of interest, Steve Punter told me in February 2018 that he had vi
 |Nov 1988 | 6400 |
 |Late 1989 |7000|
 
-## Mississauga RCP/M System's Hardware Resources - April 1982
+## Mississauga RCP/M System's Hardware Resources - January 10, 1982
 
-The following is the transcribed contents of the "Hard Disk Documentation" file downloaded from Mississauga RCP/M, dated April 15 1982:
+The following is the transcribed contents of the "Hard Disk Documentation" file downloaded from Mississauga RCP/M:
 
 As of January 10, 1982, the Mississauga RCP/M System is being run on the following equipment:
 
@@ -76,8 +76,7 @@ As of January 10, 1982, the Mississauga RCP/M System is being run on the followi
 
 - 2 Hardcopy Printers <Decwriter III - 180 cps and Diablo 1641- 45 cps)
 
-The system was first brought up in January 1978, and has worked reliablely since that time. Downtime on this system has
-almost wholely due to breakdown of new equipment added to system, as the infant mortality problem catches us too.
+The  Cromemco Z2 system was first brought up in January 1978, and has worked reliablely since that time. Downtime on this system has almost wholely due to breakdown of new equipment added to system, as the infant mortality problem catches us too.
 
 This system has been running 24 hours a day seven days a week since May 1, 1980, and has given good performance. Under these
 conditions, we have found that floppies last about two months, with some brands better than others. As the system now runs off
@@ -89,7 +88,7 @@ the pounding from a 24 hour a day system, and were initially forced to revert to
 
 This section is summarized from Jud Newell's personal historical overview published in the vol. 1 # 6 CRS Newsletter of early 1986.
  
-Jud Newell purchased his first computer in 1977 which was a Cromemco Z2 black box as his choice was either the Z2 or a SOL.  Disk I/O was handled by a Northstar Disk Unit. Nothing ever seemed to work for more than a week at a time. They went from 8k S-100 memory to 16k memory cards (as memory was terribly expensive in those days - having 16k was a luxury!) and added in a PMMI internal modem card after which they called up Ben Bronson's system in Chicago.
+Jud Newell purchased his first computer in 1977 which was a Cromemco Z2 black box as his choice was either the Z2 or a SOL-20.  Disk I/O was handled by a Northstar Disk Unit. Nothing ever seemed to work for more than a week at a time. They went from 8k S-100 memory to 16k memory cards (note: I paid $315 for 16k of 8 memory chips in January 1980 and $240 in June 1980, in current CPI-adjusted dollars) and added in a PMMI internal modem card after which they called up Ben Bronson's system in Chicago.
 
 Jud's first remote system came online May 1, 1981, being the second oldest in Toronto (with Steve Punter's PSI/Wordpro BBS coming online April 15 1981, as noted further up in this file). His first system had one hard disk and a 1200 baud modem, both of which were unheard of for the time. There were initially 50 users (including myself) and that number had increased to 500 within a few months. In March 1982 they wanted to add a second computer using a Corvus Multiplexer but that didn't work so they  spent the money on a second hard disk which made Mississauga RCP/M even more popular. At that time Mississauga RCP/M was hosted in their home and with the computers beside their bedroom
 
