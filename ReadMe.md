@@ -1,6 +1,6 @@
 # A Potted History of "Canada Remote Systems" (aka Mississauga & Toronto RCP/M) of the 1980s
 
-This respository aims to expand upon the publicly available history for Jud Newell's "Mississauga RCP/M", "Toronto RCP/M" and "Canada Remote Systems" bulletin board (BBS) systems, starting from 1977. This history is partly from my personal experience as one of Jud Newell's first users of his "Mississauga RCP/M" (located in his home) in February 1982. I have derived the factual information from the 1985-1991 CRS member newsletters. 
+This respository aims to expand upon the publicly available history for Jud Newell's "Mississauga RCP/M", "Toronto RCP/M" and "Canada Remote Systems" bulletin board (BBS) systems, starting from 1977. This history is partly from my personal experience as one of Jud Newell's first users of his "Mississauga RCP/M" (located in his home) as of February 1982. I have derived the factual information from the 1985-1991 Canada Remote Systems (CRS) member newsletters. 
 
 <div style="text-align:center">
 <img src="/Images/Canada Remote Systems - 2.jpg" alt="" style="width:75%; height:auto;">
@@ -8,28 +8,32 @@ This respository aims to expand upon the publicly available history for Jud Newe
 
 ## My Personal Perspective from 1982 Onwards
 
-The concept of a dial-up BBS in Toronto really did not exist until 1980 and into 1982 when home computers with 300/1200 baud acousticlly coupled modems started to become available to  the general "computing enthusiasts". At that time the Toronto hobbyist/business market was generally focused on the TRS-80, Apple II, PET, Exidy Sorcerer, Heathkit H8 and IMSAI 8080 S-100 machines. This was a few years before the "big BBS" scene kicked. Most Toronto start-up BBS's were hosted by a guy in his house (or a local computer shop) who might have his CP/M S-100, PET, Apple II or TRS-80 Model II computer online for people to phone in and access. In the 1970s a select few people had the opportunity to do dial-up communications at 75, 110 or 300 baud to their local universities from a remote dumb terminal and modem. Dial-up was still the norm for communications into the late 1990s but at speeds closing out at 56.6kbps.
+The concept of a dial-up BBS in Toronto really did not exist until 1981 and into 1982 when home computers with 300/1200 baud acousticlly coupled modems started to become available to  the general "computing enthusiasts". At that time the Toronto hobbyist/business market was generally focused on the TRS-80, Apple II, PET, Exidy Sorcerer, Heathkit H8 and IMSAI 8080 machines. This was a few years before the "big BBS" scene kicked in during the mid 1980's. Most Toronto start-up BBS's were hosted by a guy in his house (or a local computer shop) who might have his CP/M S-100, PET, Apple II or TRS-80 Model II computer online for people to phone in and access. In the 1970s a select few people had the opportunity to do dial-up communications at 75, 110 or 300 baud to their local universities from a remote dumb terminal and modem. Dial-up was still the norm for communications into the late 1990s but at speeds closing out at 56.6kbps.
 
-For some perspective of that 1982 era, using my 300 baud acoustically coupled modem, it would take 60mins to download 100k of data (not 100MB!), and that is if someone did not pick up the phone and destroy the connection. You would be lucky if you could even log into "Mississauga RCP/M" each evening given that it only had one incoming phone line. 
+For some perspective of that 1982 era, using my 300 baud acoustically coupled modem, it would take 60mins to download 100k of data (not 100MB!), and that was is if someone did not pick up the phone and destroy the connection. You would be lucky if you could even log into "Mississauga RCP/M" each evening given that it only had one incoming phone line. 
 
-In February 1980 I had opted to build my own modem based on the "Mickey Modem" design in the November 1978 issue of Kilobaud Microcomputing Magazine. However, it did not work and hence I chose to purchase a Prentice Star acousticlly coupled modem in Decembder 1981 for CDN$129. It was connected to my Exidy Sorcerer computer via the RS-232 port of my Morrow DISCUS 2D 8" drive S-100 controller card. 
+In February 1980 I had opted to build my own modem based on the "Mickey Modem" design in the November 1978 issue of Kilobaud Microcomputing Magazine. However, it did not work and hence I chose to purchase a Prentice Star acousticlly coupled modem in Decembder 1981 for CDN$129. It was connected to my [Exidy Sorcerer](https://github.com/rcl9/Imagery-of-Past-Projects/blob/main/Hardware/1980%20-%20Fan%20enclosure%20for%20very%20hot%20Exidy%20Sorcerer.jpg) computer via the RS-232 port of my Morrow DISCUS 2D 8" drive [S-100 controller card](https://github.com/rcl9/Morrow-DJ2D-CPM-22-Recompile-From-Source). 
+
+<div style="text-align:center">
+<img src="/Images/Prentice Star handset coupler modem.jpg" alt="" style="width:50%; height:auto;">
+</div>
 
 ## The Toronto BBS Scene in February 1982
 
-On February 12 1982 onwards I signed on to most of the known Toronto BBS's and printed out their basic system information and file catalogues from which I can write this historical overview. My first logons were as follows:
+On February 12 to 14 1982 I signed on to most of the known Toronto BBSs and printed out their basic system information and file catalogues from which I can write this historical overview. My first logons were as follows:
 
 | BBS Name | First Logon  |
 | :----- | :--- | 
-| Mississauga RCP/M | February 14 1982 |
+| Mississauga RCP/M (aka CRS)  | February 14 1982 |
 |Apple Canada|  March 19, 1982|
 |Connection-80 (Willowdale CBBS, Vic Kass) | February 12 1982 |
 |Heathkit RCP/M | February 13 1982 |
 |Steve Punter's PSI/Wordpro BBS| February 14 1982|
 |Toronto Pet User's Group (Steve Punter BBS) |  February 14 1982 |
 
-The systems in general were pretty minimalistic in 1980-1982, basically allowing you to use their machines in a remote manner to review and download files, as well as do some basic messaging. But it was still better than not having remote system access at all prior to 1982. I recall how some of them were quite lacking and sparce (ie. Apple Canada and Heathkit, as after-hours company BBSes).
+The systems in general were pretty minimalistic in 1981-1982, basically allowing you to use their machines in a remote manner to review and download files, as well as do some basic messaging. But it was still better than not having remote system access at all prior to 1982. I recall how some of them were quite lacking and sparce (ie. Apple Canada and Heathkit, as after-hours company BBSs).
 
-As a side note of interest, Steve Punter told me in February 2018 that he had visited Marketron (in Cumberland Terrace) to see the Toronto PET User's Group BBS on April 11th 1981. He had been so impressed with it that he wanted to run my own. Using some Radio Shack parts and some programming, he had his first BBS online by April 15th. 
+As a side note of interest, Steve Punter told me in February 2018 that he had visited Marketron (in Cumberland Terrace) to see the Toronto PET User's Group BBS on April 11th 1981. He had been so impressed with it that he wanted to run my own. Using some Radio Shack parts and some programming, he had his first BBS online by April 15th. Mississauga RCP/M followed two weeks later.
 
 ## Physical Company Locations
 
@@ -42,6 +46,8 @@ As a side note of interest, Steve Punter told me in February 2018 that he had vi
 
 ## Approximate Customer User Base Size 
 
+| Year | User Base Size  |
+| :----- | :--- | 
 | Early 1982 | 50 unpaid |
 | Mid 1982 | 500 unpaid |
 |Feb 1983 - 146 paid |
