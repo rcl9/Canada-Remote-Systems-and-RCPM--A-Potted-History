@@ -12,7 +12,7 @@ The concept of a dial-up BBS in Toronto really did not exist until 1981 and into
 
 For some perspective of that 1982 era, using my 300 baud acoustically coupled modem, it would take 60mins to download 100k of data (not 100MB!), and that was is if someone did not pick up the phone and destroy the connection. You would be lucky if you could even log into "Mississauga RCP/M" each evening given that it only had one incoming phone line. 
 
-In February 1980 I had opted to build my own modem based on the "Mickey Modem" design in the November 1978 issue of Kilobaud Microcomputing Magazine. However, it did not work and hence I chose to purchase a Prentice Star acousticlly coupled modem in Decembder 1981 for CDN$129. It was connected to my [Exidy Sorcerer](https://github.com/rcl9/Imagery-of-Past-Projects/blob/main/Hardware/1980%20-%20Fan%20enclosure%20for%20very%20hot%20Exidy%20Sorcerer.jpg) computer via the RS-232 port of my Morrow DISCUS 2D 8" drive [S-100 controller card](https://github.com/rcl9/Morrow-DJ2D-CPM-22-Recompile-From-Source). 
+In February 1980 I had opted to build my own modem based on the "Mickey Modem" design in the November 1978 issue of Kilobaud Microcomputing Magazine. However, it did not work and hence I chose to purchase a Livermore Star acousticlly coupled modem in Decembder 1981 for CDN$129. It was connected to my [Exidy Sorcerer](https://github.com/rcl9/Imagery-of-Past-Projects/blob/main/Hardware/1980%20-%20Fan%20enclosure%20for%20very%20hot%20Exidy%20Sorcerer.jpg) computer via the RS-232 port of my Morrow DISCUS 2D 8" drive [S-100 controller card](https://github.com/rcl9/Morrow-DJ2D-CPM-22-Recompile-From-Source). 
 
 <div style="text-align:center">
 <img src="/Images/Prentice Star handset coupler modem.jpg" alt="" style="width:50%; height:auto;">
@@ -50,7 +50,7 @@ As a side note of interest, Steve Punter told me in February 2018 that he had vi
 | :----- | :--- | 
 | Early 1982 | 50 unpaid |
 | Mid 1982 | 500 unpaid |
-|Feb 1983 - 146 paid |
+|Feb 1983 | 146 paid |
 |July 1985 | 1400 |
 |Late 1985 | 2100 |
 |Jan 1987 |  2700 |
@@ -58,13 +58,13 @@ As a side note of interest, Steve Punter told me in February 2018 that he had vi
 |Nov 1988 | 6400 |
 |Late 1989 |7000|
 
-## Mississauga RCP/M System's Hardware Resources - April 1989
+## Mississauga RCP/M System's Hardware Resources - April 1982
 
 The following is the transcribed contents of the "Hard Disk Documentation" file downloaded from Mississauga RCP/M, dated April 15 1982:
 
 As of January 10, 1982, the Mississauga RCP/M System is being run on the following equipment:
 
-- Cromemco Z2 Processor Card, running at 4hz, in a 21 slot card cage 
+- Cromemco Z2 Processor Card, running at 4Mhz, in a 21 slot card cage 
 
 - 64k static memory (3 x 16k Godbout, 1 x 16k Problem Solver)
 
@@ -76,7 +76,7 @@ As of January 10, 1982, the Mississauga RCP/M System is being run on the followi
 
 - 2 Hardcopy Printers <Decwriter III - 180 cps and Diablo 1641- 45 cps)
 
-The system was first brought up in January 1978, and has reliablely since that time. Downtime on this system has
+The system was first brought up in January 1978, and has worked reliablely since that time. Downtime on this system has
 almost wholely due to breakdown of new equipment added to system, as the infant mortality problem catches us too.
 
 This system has been running 24 hours a day seven days a week since May 1, 1980, and has given good performance. Under these
@@ -89,9 +89,9 @@ the pounding from a 24 hour a day system, and were initially forced to revert to
 
 This section is summarized from Jud Newell's personal historical overview published in the vol. 1 # 6 CRS Newsletter of early 1986.
  
-Jud Newell purchased his first computer in 1977 which was a Cromemco Z2 black box as his choice was either the Z2 or a SOL.  Disk I/O was handled by a Northstar Disk. Nothing ever seemed to work for more than a week at a time. They went from 8k S-100 memory to 16k memory cards (as memory was terribly expensive in those days - having 16k was a luxury!) and added in a PMMI internal modem card after which they called up Ben Bronson's system in Chicago.
+Jud Newell purchased his first computer in 1977 which was a Cromemco Z2 black box as his choice was either the Z2 or a SOL.  Disk I/O was handled by a Northstar Disk Unit. Nothing ever seemed to work for more than a week at a time. They went from 8k S-100 memory to 16k memory cards (as memory was terribly expensive in those days - having 16k was a luxury!) and added in a PMMI internal modem card after which they called up Ben Bronson's system in Chicago.
 
-Jud's first remote sysyem came online May 1, 1981, being the second oldest in Toronto (with Steve Punter's PSI/Wordpro BBS coming online April 15 1981, as noted further up in this file). His first system had one hard disk and a 1200 baud modem, both of which were unheard of for the time. There were initially 50 users (including myself) and that number had increased to 500 within a few months. In March 1982 they wanted to add a second computer using a Corvus Multiplexer but that didn't work so they  spent the money on a second hard disk which made Mississauga RCP/M even more popular. At that time Mississauga RCP/M was hosted in their home and with the computers beside their bedroom
+Jud's first remote system came online May 1, 1981, being the second oldest in Toronto (with Steve Punter's PSI/Wordpro BBS coming online April 15 1981, as noted further up in this file). His first system had one hard disk and a 1200 baud modem, both of which were unheard of for the time. There were initially 50 users (including myself) and that number had increased to 500 within a few months. In March 1982 they wanted to add a second computer using a Corvus Multiplexer but that didn't work so they  spent the money on a second hard disk which made Mississauga RCP/M even more popular. At that time Mississauga RCP/M was hosted in their home and with the computers beside their bedroom
 
 It quickly became obvious that they either had to add more systems and start charging or eliminate the systems all together. So they opted to go private on February 1st 1983 and start charging membership fees, renamed to "Toronto RCP/M Systems". There were initially 146 members and by 1989 that number had ballooned to over 7000 (an average growth of some 90% annually, compounded), with the number of phone links growing to 68.
 
@@ -160,6 +160,6 @@ Hardware is being upgraded - by the time you get this mini-newsletter, we should
 
 ## July 1991 Newsletter
 
-Since September 1990, we've added many new benefits and services to you our user: We have expanded from 94 to 143 incoming lines, allowing you even easier access to our facilities. We've gone from 8 gigabytes of on-line storage to over 19 gigabytes!
+Since September 1990, we've added many new benefits and services to you our users: we have expanded from 94 to 143 incoming lines, allowing you even easier access to our facilities. We've gone from 8 gigabytes of on-line storage to over 19 gigabytes!
 
 Our file librarians move some 3000 new files into the system monthly, categorizing them by machine type and then by topic. We have over 300 topical areas for IBM users (somewhat fewer for other machine types) and these areas are managed vigorously. We collect some 15-17 megabytes per night of software (almost triple what was collected nightly just a year ago!), and half again as much comes in through the mail throughout the month. By volume, we collect 50% more software than does our nearest competitor, and we continue to place very high priority on the file collection and the libraries.
