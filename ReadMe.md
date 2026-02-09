@@ -42,7 +42,7 @@ As a side note of interest, Steve Punter told me in February 2018 that he had vi
 |May 1, 1981 | Newell's home bedroom in Mississauga (1 then 2 machines)|
 |1982 | Newell's home basement in Etobicoke (10 machines)|
 |April 1985 | 4198 Dundas Street West, Unit 311 (12 machines) |
-|March 1989 | 1331 Crestlawn Drive, Unit D, Mississauga|
+|March 1989 | 1331 Crestlawn Drive, Unit D, Mississauga (87 machines)|
 
 ## Approximate Customer User Base Size 
 
