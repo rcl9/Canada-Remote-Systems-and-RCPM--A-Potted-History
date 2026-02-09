@@ -88,7 +88,7 @@ the pounding from a 24 hour a day system, and were initially forced to revert to
 
 This section is summarized from Jud Newell's personal historical overview published in the vol. 1 # 6 CRS Newsletter of early 1986.
  
-Jud Newell purchased his first computer in 1977 which was a Cromemco Z2 black box as his choice was either the Z2 or a SOL-20.  Disk I/O was handled by a Northstar Disk Unit. Nothing ever seemed to work for more than a week at a time. They went from 8k S-100 memory to 16k memory cards (note: I paid $315 for 16k of 8 memory chips in January 1980 and $240 in June 1980, in current CPI-adjusted dollars) and added in a PMMI internal modem card after which they called up Ben Bronson's system in Chicago.
+Jud Newell purchased his first computer in 1977 which was a Cromemco Z2 black box as his choice was either the Z2 or a SOL-20.  Disk I/O was handled by a Northstar Disk Unit. Nothing ever seemed to work for more than a week at a time. They went from 8k S-100 memory to 16k memory cards (note: I, RCL9,  paid $315 for 16k of 8 memory chips in January 1980 and $240 in June 1980, in current CPI-adjusted dollars) and added in a PMMI internal modem card after which they called up Ben Bronson's system in Chicago.
 
 Jud's first remote system came online May 1, 1981, being the second oldest in Toronto (with Steve Punter's PSI/Wordpro BBS coming online April 15 1981, as noted further up in this file). His first system had one hard disk and a 1200 baud modem, both of which were unheard of for the time. There were initially 50 users (including myself) and that number had increased to 500 within a few months. In March 1982 they wanted to add a second computer using a Corvus Multiplexer but that didn't work so they  spent the money on a second hard disk which made Mississauga RCP/M even more popular. At that time Mississauga RCP/M was hosted in their home and with the computers beside their bedroom
 
@@ -119,9 +119,9 @@ But then the "fun started" as they began to hit critical mass. The demand for th
 - System 12 Fall, 1985 Mac
 - System 13 Winter, 1986 IBM
 
-On the IBM side, Jud surmised in 1986 that they could go up to 64 machines on the one hard disk, but practically, 12 is about the max (they had currently run 7 into one hard disk). 
+On the IBM side, Jud surmised in 1986 that they could go up to 64 machines on the one hard disk, but practically, 12 is about the max (they had networked 7 computers to one hard disk). 
 
-They had no battery backup systems and hence everything would go down with power fluctuations. 
+They had no battery backup systems and hence everything would go down due to power fluctuations. 
 
 Jud stated in 1986 that "There still isn't enough time in the day to do everything we want. We're three here now full time and one part time, and we're still behind on system maintenance, cataloging, etc. We're always wrestling with this one, sometimes more successfully than others. But, without doubt, Canada Remote Systems is the largest operation of it's type in North America, and likely the world."
 
