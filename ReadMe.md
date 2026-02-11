@@ -1,6 +1,6 @@
 # A Potted History of "Canada Remote Systems" (aka Mississauga & Toronto RCP/M) of the 1980s
 
-This respository aims to expand upon the publicly available history for Jud Newell's "Mississauga RCP/M", "Toronto RCP/M" and "Canada Remote Systems" bulletin board (BBS) systems, starting from 1977. This history is partly from my personal experience as one of Jud Newell's first users of his "Mississauga RCP/M" (located in his home) as of February 1982. I have derived the factual information from the 1985-1991 Canada Remote Systems (CRS) member newsletters. 
+This repository aims to expand upon the publicly available history for Jud Newell's "Mississauga RCP/M", "Toronto RCP/M" and "Canada Remote Systems" bulletin board (BBS) systems, starting from 1977. This history is partly from my personal experience as one of Jud Newell's first users of his "Mississauga RCP/M" (located in his home) as of February 1982. I have derived the factual information from the 1985-1991 Canada Remote Systems (CRS) member newsletters. 
 
 <div style="text-align:center">
 <img src="/Images/Canada Remote Systems - 2.jpg" alt="" style="width:75%; height:auto;">
@@ -8,11 +8,11 @@ This respository aims to expand upon the publicly available history for Jud Newe
 
 ## My Personal Perspective from 1982
 
-The concept of a dial-up BBS in Toronto really did not exist until 1981 and into 1982 when home computers with 300/1200 baud acousticlly coupled modems started to become available to  the general "computing enthusiasts". At that time the Toronto hobbyist/business market was generally focused on the TRS-80, Apple, Commodore PET, Exidy Sorcerer, Heathkit H8 and IMSAI 8080 machines. This was a few years before the "big BBS" scene kicked in during the mid 1980's. Most Toronto start-up BBS's were hosted by a guy in his house (or a local computer shop) who might have his CP/M S-100, PET, Apple II or TRS-80 Model II computer online for people to phone in and access. In the 1970s a select few people had the opportunity to do dial-up communications at 75, 110 or 300 baud to their local universities from a remote dumb terminal and modem. Dial-up was still the norm for communications into the late 1990s but at much higher speeds closing out at 56.6kbps.
+The concept of a dial-up BBS in Toronto really did not exist until 1981 and into 1982 when home computers with 300/1200 baud acoustically coupled modems started to become available to  the general "computing enthusiasts". At that time the Toronto hobbyist/business market was generally focused on the TRS-80, Apple, Commodore PET, Exidy Sorcerer, Heathkit H8 and IMSAI 8080 machines. This was a few years before the "big BBS" scene kicked in during the mid 1980's. Most Toronto start-up BBS's were hosted by a guy in his house (or a local computer shop) who might have his CP/M S-100, PET, Apple II or TRS-80 Model II computer online for people to phone in and access. In the 1970s a select few people had the opportunity to do dial-up communications at 75, 110 or 300 baud to their local universities from a remote dumb terminal and modem. Dial-up was still the norm for communications into the late 1990s but at much higher speeds closing out at 56.6kbps.
 
 For some perspective of that 1982 era, using my 300 baud acoustically coupled modem, it would take 60mins to download 100k of data (not 100MB!), and that was is if someone did not pick up the phone and destroy the connection. You would be lucky if you could even log into "Mississauga RCP/M" each evening given that it only had one incoming phone line. My interest was to gain access to the newest CP/M 2.2 and then CP/M-3 software for my 8-bit Z80 Exidy Sorcerer. The days of the 16-bit IBM PC would not arrive for a couple of more years to come.
 
-In February 1980 I had wanted to build my own modem based on the "Mickey Modem" design in the November 1978 issue of Kilobaud Microcomputing Magazine. However, it did not work and hence I chose to purchase a Livermore Star acousticlly coupled modem in December 1981 for CDN$129 ($475 in today's dollars). It was connected to my [Exidy Sorcerer](https://github.com/rcl9/Imagery-of-Past-Projects/blob/main/Hardware/1980%20-%20Fan%20enclosure%20for%20very%20hot%20Exidy%20Sorcerer.jpg) computer via the RS-232 port of my Morrow DISCUS 2D 8" drive [S-100 controller card](https://github.com/rcl9/Morrow-DJ2D-CPM-22-Recompile-From-Source). 
+In February 1980 I had wanted to build my own modem based on the "Mickey Modem" design in the November 1978 issue of Kilobaud Microcomputing Magazine. However, it did not work and hence I chose to purchase a Livermore Star acoustically coupled modem in December 1981 for CDN$129 ($475 in today's dollars). It was connected to my [Exidy Sorcerer](https://github.com/rcl9/Imagery-of-Past-Projects/blob/main/Hardware/1980%20-%20Fan%20enclosure%20for%20very%20hot%20Exidy%20Sorcerer.jpg) computer via the RS-232 port of my Morrow DISCUS 2D 8" drive [S-100 controller card](https://github.com/rcl9/Morrow-DJ2D-CPM-22-Recompile-From-Source). 
 
 <div style="text-align:center">
 <img src="/Images/Prentice Star handset coupler modem.jpg" alt="" style="width:50%; height:auto;">
@@ -22,43 +22,43 @@ In February 1980 I had wanted to build my own modem based on the "Mickey Modem" 
 
 On February 12 to 14 1982 I signed on to most of the known Toronto BBSs for the first time and printed out their basic system information and file catalogues to my MX-80 printer from which I can write this historical overview. My first logons were as follows:
 
-| BBS Name | First Logon  |
-| :----- | :--- | 
-| Mississauga RCP/M (aka CRS)  | February 14 1982 |
-|Apple Canada|  March 19, 1982|
-|Connection-80 (Willowdale CBBS, Vic Kass) | February 12 1982 |
-|Heathkit RCP/M | February 13 1982 |
-|Steve Punter's PSI/Wordpro BBS| February 14 1982|
-|Toronto Pet User's Group (Steve Punter BBS) |  February 14 1982 |
+| BBS Name                                    | First Logon      |
+|:------------------------------------------- |:---------------- |
+| Mississauga RCP/M (aka CRS)                 | February 14 1982 |
+| Apple Canada                                | March 19, 1982   |
+| Connection-80 (Willowdale CBBS, Vic Kass)   | February 12 1982 |
+| Heathkit RCP/M                              | February 13 1982 |
+| Steve Punter's PSI/Wordpro BBS              | February 14 1982 |
+| Toronto Pet User's Group (Steve Punter BBS) | February 14 1982 |
 
-For some historical perspective, Vic Kass was one of the first key people in Toronto to start up a long-term, competitive and well known BBS ecosystem. I knew him from Feb 1982 onwards. His operation would generally be known as "Rose Media" and a major competitor to Jud Newell's RCP/M for much of the decade. 
+For some historical perspective, Vic Kass was one of the first key people in Toronto to start up a competitive and well known BBS ecosystem starting in 1981. I knew him from Feb 1982 onwards. His operation would be a major competitor to Jud Newell's RCP/M for much of the decade. 
 
-The systems in general were pretty minimalistic in 1981-1982, basically allowing you to use their machines in a remote manner to review and download files, as well as do some basic messaging. But it was still better than not having remote system access at all prior to 1982. I recall at the time how some of them were quite lacking and sparce (ie. Apple Canada and Heathkit, as after-hours company BBSs).
+The systems in general were pretty minimalistic in 1981-1982, basically allowing you to use their machines in a remote manner to review and download files, as well as do some basic messaging. But it was still better than not having remote system access at all prior to 1982. I recall at the time how some of them were quite lacking and sparse (ie. Apple Canada and Heathkit, as after-hours company BBSs).
 
 As a side note of interest, Steve Punter told me in February 2018 that he had visited Marketron (in Cumberland Terrace) to see the Toronto PET User's Group BBS on April 11th 1981. He had been so impressed with it that he wanted to run my own. Using some Radio Shack parts and some programming, he had his first BBS online by April 15th. Jud Newell's Mississauga RCP/M followed two weeks later.
 
 ## Physical Company Locations
 
-| Year | Location  |
-| :----- | :--- | 
-|May 1, 1981 | Newell's home bedroom in Mississauga (1 then 2 machines)|
-|1982 | Newell's home basement in Etobicoke (10 machines)|
-|April 1985 | 4198 Dundas Street West, Unit 311 (12 machines) |
-|March 1989 | 1331 Crestlawn Drive, Unit D, Mississauga (87 machines)|
+| Year        | Location                                                 |
+|:----------- |:-------------------------------------------------------- |
+| May 1, 1981 | Newell's home bedroom in Mississauga (1 then 2 machines) |
+| 1982        | Newell's home basement in Etobicoke (10 machines)        |
+| April 1985  | 4198 Dundas Street West, Unit 311 (12 machines)          |
+| March 1989  | 1331 Crestlawn Drive, Unit D, Mississauga (87 machines)  |
 
-## Approximate Customer User Base Size 
+## Approximate Customer User Base Size
 
-| Year | User Base Size  |
-| :----- | :--- | 
-| Early 1982 | 50 unpaid |
-| Mid 1982 | 500 unpaid |
-|Feb 1983 | 146 paid |
-|July 1985 | 1400 |
-|Late 1985 | 2100 |
-|Jan 1987 |  2700 |
-|Nov 1987 | 4200 |
-|Nov 1988 | 6400 |
-|Late 1989 |7000|
+| Year       | User Base Size |
+|:---------- |:-------------- |
+| Early 1982 | 50 unpaid      |
+| Mid 1982   | 500 unpaid     |
+| Feb 1983   | 146 paid       |
+| July 1985  | 1400           |
+| Late 1985  | 2100           |
+| Jan 1987   | 2700           |
+| Nov 1987   | 4200           |
+| Nov 1988   | 6400           |
+| Late 1989  | 7000           |
 
 ## Mississauga RCP/M System's Hardware Resources - January 10, 1982
 
@@ -78,19 +78,15 @@ As of January 10, 1982, the Mississauga RCP/M System is being run on the followi
 
 - 2 Hardcopy Printers <Decwriter III - 180 cps and Diablo 1641- 45 cps)
 
-The  Cromemco Z2 system was first brought up in January 1978, and has worked reliablely since that time. Downtime on this system has almost wholely due to breakdown of new equipment added to system, as the infant mortality problem catches us too.
+The  Cromemco Z2 system was first brought up in January 1978, and has worked reliably since that time. Downtime on this system has almost wholly due to breakdown of new equipment added to system, as the infant mortality problem catches us too.
 
-This system has been running 24 hours a day seven days a week since May 1, 1980, and has given good performance. Under these
-conditions, we have found that floppies last about two months, with some brands better than others. As the system now runs off
-the hard disk, floppy wear will no longer be a concern. We did find that 5 1/4'' double sided drives simply could not take
-the pounding from a 24 hour a day system, and were initially forced to revert to single sided (which worked fine) and then to
-8". We would strongly advise against using DD/DS 5 1/4" drives in a remote application.
+This system has been running 24 hours a day seven days a week since May 1, 1980, and has given good performance. Under these conditions, we have found that floppies last about two months, with some brands better than others. As the system now runs off the hard disk, floppy wear will no longer be a concern. We did find that 5 1/4''  double sided drives simply could not take the pounding from a 24 hour a day system, and were initially forced to revert to single sided (which worked fine) and then to 8". We would strongly advise against using DD/DS 5 1/4" drives in a remote application.
 
 ## A Personal Recollection by Jud Newell - Spring 1986
 
 This section is summarized from Jud Newell's personal historical overview published in the vol. 1 # 6 CRS Newsletter of early 1986.
- 
-Jud Newell purchased his first computer in 1977 which was a Cromemco Z2 black box as his choice was either the Z2 or a SOL-20.  Disk I/O was handled by a Northstar Disk Unit. Nothing ever seemed to work for more than a week at a time. They went from 8k S-100 memory to 16k memory cards (note: I, RCL9,  paid $315 for 16k of 8 memory chips in January 1980 and $240 in June 1980, in current CPI-adjusted dollars) and added in a PMMI internal modem card after which they called up Ben Bronson's system in Chicago.
+
+Jud Newell purchased his first computer in 1977 which was a Cromemco Z2 black box as his choice was either the Z2 or a SOL-20.  Disk I/O was handled by a Northstar Disk Unit. Nothing ever seemed to work for more than a week at a time. They went from 8k S-100 memory to 16k memory cards (note: I paid CDN$315 for 16k of 8 memory chips in January 1980 and CDN$240 in June 1980, in current CPI-adjusted dollars) and added in a PMMI internal modem card after which they called up Ben Bronson's system in Chicago.
 
 Jud's first remote system came online May 1, 1981, being the second oldest in Toronto (with Steve Punter's PSI/Wordpro BBS coming online April 15 1981, as noted further up in this file). His first system had one hard disk and a 1200 baud modem, both of which were unheard of for the time. There were initially 50 users (including myself) and that number had increased to 500 within a few months. In March 1982 they wanted to add a second computer using a Corvus Multiplexer but that didn't work so they  spent the money on a second hard disk which made Mississauga RCP/M even more popular. At that time Mississauga RCP/M was hosted in their home and with the computers beside their bedroom
 
@@ -98,13 +94,13 @@ It quickly became obvious that they either had to add more systems and start cha
 
 Out of historical interest, my personal Toronto RCP/M Systems membership fees were:
 
-| Year | Fee  |
-| :----- | :--- | 
-|Feb 11 1984 | $30 |
-|Jan 20 1985 | $30 |
-|Jan 31 1986 | $35 |
-|Jan 27 1987 | $40 |
-|Jan 28 1988 | $25 |
+| Year        | Fee |
+|:----------- |:--- |
+| Feb 11 1984 | $30 |
+| Jan 20 1985 | $30 |
+| Jan 31 1986 | $35 |
+| Jan 27 1987 | $40 |
+| Jan 28 1988 | $25 |
 
 The second S-100 computer system was then added into the mix, given the new influx of membership fees, and a third S-100 machine shortly thereafter.  System three was an old Kaypro 2 with a 16 meg Xebec Hard disk . 
 
@@ -116,7 +112,7 @@ But then the "fun started" as they began to hit critical mass. The demand for th
 - System 7 Winter, 1985 CP/M Datapac 
 - System 8 Winter, 1985 CP/M
 - System 9 Winter, 1985 IBM 
- -System 10 Spring, 1985 IBM
+  -System 10 Spring, 1985 IBM
 - System 11 Spring, 1985 IBMDatapac 
 - System 12 Fall, 1985 Mac
 - System 13 Winter, 1986 IBM
@@ -141,9 +137,9 @@ Staff members (left to right): Jay Newell, Sandra Valeriani, Jud Newell, Brenda 
 <img src="/Images/CRS computer room - April 1989.jpg" alt="CRS computer room - April 1989" style="width:75%; height:auto;">
 </div>
 
-However, by July 1990 Jud was stating in their CRS newsletter that "Over the years, CRS has enjoyed growth rates of up to 50% per year. As the economy boomed, so did CRS. However, the economy isn't booming any more, and we've noticed dramatic changes in our operations... Most of you were made aware of a number of changes here at CRS in May, which included serious statf and overhead reductions."
+However, by July 1990 Jud was stating in their CRS newsletter that "Over the years, CRS has enjoyed growth rates of up to 50% per year. As the economy boomed, so did CRS. However, the economy isn't booming any more, and we've noticed dramatic changes in our operations... Most of you were made aware of a number of changes here at CRS in May, which included serious staff and overhead reductions."
 
-On August 7 1990 Brenda Brennan sent out a notice to oranganize a member buyout of the CRS assets. The following financial statement was also included:
+On August 7 1990 Brenda Brennan sent out a notice to organize a member buyout of the CRS assets. The following financial statement was also included:
 
 <div style="text-align:center">
 <img src="/Images/CRS - Aug 1990 - Projected income figures.jpg" alt="CRS - Aug 1990 - Projected income figures" style="width:75%; height:auto;">
@@ -153,12 +149,9 @@ The September 2 1990 CRS Members Newsletter stated that "Canada Remote Systems L
 
 ... and ...
 
-"The winning bid for the assets of CRS was by an organization headed by Neil Fleming, a long time CRS
-member. The new organization will be a totally different company, with none of the shareholders of CRS
-participating in the equity ofthe new company. Neil's company has purchased as part ofthe assets the trade
-name Canada Remote Systems, and will carry on business under that name."
+"The winning bid for the assets of CRS was by an organization headed by Neil Fleming, a long time CRS member. The new organization will be a totally different company, with none of the shareholders of CRS participating in the equity of the new company. Neil's company has purchased as part of the assets the trade name Canada Remote Systems, and will carry on business under that name."
 
-On September 1 1990 the new owner, Neil Fleming (and his unnamed silent partner) sent out an introductory letter under the guise of 884097 Ontatio Ltd., stating that "We will be starting to re-open the board immediately. Jud has been very busy maintaining and upgrading the systems during this 'down' period. The main challenge ahead will be to get quick action from Bell Canada in re-activating the phone lines."
+On September 1 1990 the new owner, Neil Fleming (and his unnamed silent partner) sent out an introductory letter under the name of 884097 Ontario Ltd., stating that "We will be starting to re-open the board immediately. Jud has been very busy maintaining and upgrading the systems during this 'down' period. The main challenge ahead will be to get quick action from Bell Canada in re-activating the phone lines."
 
 A new CRS Members Newsletter was sent out in January 1991 with an intro provided by Neil Fleming who explained the rebuilding process of CRS over the prior 4 months and the addition of some new staff members. 
 
@@ -172,9 +165,9 @@ For the remainder of the 1991 through to 1996 history of CRS, please refer to th
 
 ## CRS Newsletter Snippet -- November 1985 - Vol 1 # 3
 
-The introduction acknowledged that the 16-bit IBM PC was overtaking the 10 year old 8-bit CP/M market, stating that "The ratio of CP/M to lBM users has changed from 100% CP/M in 1982/83 to approximately 60% IBM/40% CP/M now. New IBM users joining us outnumber CP/M users by about 4 to 1. The amount of new CP/M public domain software is dropping considerably ... we now get about 7 disks a month of new CP/M programs, as compared to about 25 disks a month of IBM/MS-DOS stuff. Well .... we think that CP/M will remain popular among programmers, developers and anyone that needs the speed available from the CP/M operating system."
+The introduction acknowledged that the 16-bit IBM PC was overtaking the 10 year old 8-bit CP/M market, stating that "The ratio of CP/M to IBM users has changed from 100% CP/M in 1982/83 to approximately 60% IBM/40% CP/M now. New IBM users joining us outnumber CP/M users by about 4 to 1. The amount of new CP/M public domain software is dropping considerably ... we now get about 7 disks a month of new CP/M programs, as compared to about 25 disks a month of IBM/MS-DOS stuff. Well, we think that CP/M will remain popular among programmers, developers and anyone that needs the speed available from the CP/M operating system."
 
-"So, CP/M users certainly shouldn't dispair. Our CP/M library is in excess of 800 volumes, and there should be something there for everyone. We plan to keep supporting CP/M . Indeed, of our 12 machines, 6 of them run CP/M, so there's likely to be lots here for a good long time."
+"So, CP/M users certainly shouldn't despair. Our CP/M library is in excess of 800 volumes, and there should be something there for everyone. We plan to keep supporting CP/M. Indeed, of our 12 machines, 6 of them run CP/M, so there's likely to be lots here for a good long time."
 
 ## CRS Newsletter Snippet -- December 1985 - Vol 1 # 4
 
@@ -188,19 +181,19 @@ We thought you might be interested in the preliminary specifications for the new
 
 Current 1200 baud and 2400 baud modem prices (in CDN$)
 
-| Manufacturer | Baud Rates  | CDN$ Price |
-| :----- | :--- | :--- | 
-|USR Password | 300/1200 | $349|
-|Hayes Smodem | 300/1200|$659|
-|Avatex 1200 | 300/1200|$349|
-|Anchor Volks |  300/1200|$349|
-|USR Courier | 300/1200/2400 | $769|
-|Hayes 2400 | 300/1200/2400 | $959|
-|Anchor Lightening | 300/1200/2400 | $604|
+| Manufacturer      | Baud Rates    | CDN$ Price |
+|:----------------- |:------------- |:---------- |
+| USR Password      | 300/1200      | $349       |
+| Hayes Smodem      | 300/1200      | $659       |
+| Avatex 1200       | 300/1200      | $349       |
+| Anchor Volks      | 300/1200      | $349       |
+| USR Courier       | 300/1200/2400 | $769       |
+| Hayes 2400        | 300/1200/2400 | $959       |
+| Anchor Lightening | 300/1200/2400 | $604       |
 
 ## CRS Newsletter Snippet -- January 1987 - Vol 2 # 4
 
-"Our Future" overview at the start of the newsletter... "As most of you are aware, we've developed relationships with organizations like PC-SIG and SIG/M that are second to none in Canada, and perhaps the world. We also run North America's largest bulletin board system, are one of USRobotics largest dealers in Canada, and generally have our fingers in a lot of different things. Much of this growth, while nice for all, has been ad hoc and very unstructured."
+"'Our Future' overview -- As most of you are aware, we've developed relationships with organizations like PC-SIG and SIG/M that are second to none in Canada, and perhaps the world. We also run North America's largest bulletin board system, are one of USRobotics largest dealers in Canada, and generally have our fingers in a lot of different things. Much of this growth, while nice for all, has been ad hoc and very unstructured."
 
 CRS is now up to 2700 members with 16 individual computer systems. 
 
@@ -208,7 +201,7 @@ Their plans for 1987:
 
 - 16 workstations online at all times, accessible through two phone numbers. Mac, IBM and CP/M users will all call one of these phone numbers and will have access to all software .
 
-- 4 File servers , with online capacity of some 500+ Megabytes . Some 50 megabytes will be used internally here, but that will still leave you 450+ megabytes online at all times . We expect to allocate about 50 meg each to Mac Users and CP/M users and the balance to the MS/PC Dos World.
+- 4 File servers , with online capacity of some 500+ Megabytes. Some 50 megabytes will be used internally here, but that will still leave you 450+ megabytes online at all times . We expect to allocate about 50 meg each to Mac Users and CP/M users and the balance to the MS/PC Dos World.
 
 - PCBOARD software 
 
