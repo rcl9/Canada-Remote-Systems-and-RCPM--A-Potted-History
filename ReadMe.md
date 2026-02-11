@@ -31,6 +31,8 @@ On February 12 to 14 1982 I signed on to most of the known Toronto BBSs for the 
 |Steve Punter's PSI/Wordpro BBS| February 14 1982|
 |Toronto Pet User's Group (Steve Punter BBS) |  February 14 1982 |
 
+For some historical perspective, Vic Kass was one of the first key people in Toronto to start up a long-term, competitive and well known BBS ecosystem. I knew him from Feb 1982 onwards. His operation would generally be known as "Rose Media" and a major competitor to Jud Newell's RCP/M for much of the decade. 
+
 The systems in general were pretty minimalistic in 1981-1982, basically allowing you to use their machines in a remote manner to review and download files, as well as do some basic messaging. But it was still better than not having remote system access at all prior to 1982. I recall at the time how some of them were quite lacking and sparce (ie. Apple Canada and Heathkit, as after-hours company BBSs).
 
 As a side note of interest, Steve Punter told me in February 2018 that he had visited Marketron (in Cumberland Terrace) to see the Toronto PET User's Group BBS on April 11th 1981. He had been so impressed with it that he wanted to run my own. Using some Radio Shack parts and some programming, he had his first BBS online by April 15th. Jud Newell's Mississauga RCP/M followed two weeks later.
@@ -125,23 +127,117 @@ They had no battery backup systems and hence everything would go down due to pow
 
 Jud stated in 1986 that "There still isn't enough time in the day to do everything we want. We're three here now full time and one part time, and we're still behind on system maintenance, cataloging, etc. We're always wrestling with this one, sometimes more successfully than others. But, without doubt, Canada Remote Systems is the largest operation of it's type in North America, and likely the world."
 
-## Fall 1985 Newsletter - Vol 1 # 4
+## The Slow Demise of Canada Remote Systems
 
-When we started the newsletter in July 1985 we had just about 1400 members. Now, we're over 2100. We've grown to 12 systems (soon to be 13), with 6 CP/M systems, 5 IBM systems and a Macintosh, making Canada Remote Systems the largest operation of it's type in North America.
+In their CRS Members Newsletter, Vol 4 #5 of February 1989, Jud Newell announced that CRS was moving to larger premises at 1331 Crestlawn Drive, Unit D, Mississauga. At that time they were moving over 70 phone lines. 
 
-## Jan 1987 Newsletter - Vol 2 # 4
+<div style="text-align:center">
+<img src="/Images/CRS staff pic - April 1989.jpg" alt="CRS staff pic - April 1989" style="width:75%; height:auto;">
+</div>
+
+Staff members (left to right): Jay Newell, Sandra Valeriani, Jud Newell, Brenda Brennan, Tracey Snow, Wahida Joosub, Paul Aitchison, Colleen Newell (not in pix) and Nicole Gougeon (not in pix).
+
+<div style="text-align:center">
+<img src="/Images/CRS computer room - April 1989.jpg" alt="CRS computer room - April 1989" style="width:75%; height:auto;">
+</div>
+
+However, by July 1990 Jud was stating in their CRS newsletter that "Over the years, CRS has enjoyed growth rates of up to 50% per year. As the economy boomed, so did CRS. However, the economy isn't booming any more, and we've noticed dramatic changes in our operations... Most of you were made aware of a number of changes here at CRS in May, which included serious statf and overhead reductions."
+
+On August 7 1990 Brenda Brennan sent out a notice to oranganize a member buyout of the CRS assets. The following financial statement was also included:
+
+<div style="text-align:center">
+<img src="/Images/CRS - Aug 1990 - Projected income figures.jpg" alt="CRS - Aug 1990 - Projected income figures" style="width:75%; height:auto;">
+</div>
+
+The September 2 1990 CRS Members Newsletter stated that "Canada Remote Systems Limited ceased most operations on August 1st, with our bulletin board operations closing down on August 13, 1990. Our expansion in 1989, coupled with the downturn in the economy, put us in a position where we could no longer continue. Contrary to many of the rumours out there, the demise of CRS was, pure and simple, a case of poor judgement in committing to new expenses before we had the revenue in hand."
+
+... and ...
+
+"The winning bid for the assets of CRS was by an organization headed by Neil Fleming, a long time CRS
+member. The new organization will be a totally different company, with none of the shareholders of CRS
+participating in the equity ofthe new company. Neil's company has purchased as part ofthe assets the trade
+name Canada Remote Systems, and will carry on business under that name."
+
+On September 1 1990 the new owner, Neil Fleming (and his unnamed silent partner) sent out an introductory letter under the guise of 884097 Ontatio Ltd., stating that "We will be starting to re-open the board immediately. Jud has been very busy maintaining and upgrading the systems during this 'down' period. The main challenge ahead will be to get quick action from Bell Canada in re-activating the phone lines."
+
+A new CRS Members Newsletter was sent out in January 1991 with an intro provided by Neil Fleming who explained the rebuilding process of CRS over the prior 4 months and the addition of some new staff members. 
+
+The July 1991 CRS Members Newsletter had it appear that operations was back to normal and the company + offerings growing. Refer to the snippet of text from that newsletter at the end of this file. An open house was held in June 1991 during which 1000 people attended.
+
+<div style="text-align:center">
+<img src="/Images/CRS open house - 1991 - Computer room.jpg" alt="CRS open house - 1991 - Computer room" style="width:75%; height:auto;">
+</div>
+
+For the remainder of the 1991 through to 1996 history of CRS, please refer to the related [Wikipedia page](https://en.wikipedia.org/wiki/Canada_Remote_Systems) about CRS. 
+
+## CRS Newsletter Snippet -- November 1985 - Vol 1 # 3
+
+The introduction acknowledged that the 16-bit IBM PC was overtaking the 10 year old 8-bit CP/M market, stating that "The ratio of CP/M to lBM users has changed from 100% CP/M in 1982/83 to approximately 60% IBM/40% CP/M now. New IBM users joining us outnumber CP/M users by about 4 to 1. The amount of new CP/M public domain software is dropping considerably ... we now get about 7 disks a month of new CP/M programs, as compared to about 25 disks a month of IBM/MS-DOS stuff. Well .... we think that CP/M will remain popular among programmers, developers and anyone that needs the speed available from the CP/M operating system."
+
+"So, CP/M users certainly shouldn't dispair. Our CP/M library is in excess of 800 volumes, and there should be something there for everyone. We plan to keep supporting CP/M . Indeed, of our 12 machines, 6 of them run CP/M, so there's likely to be lots here for a good long time."
+
+## CRS Newsletter Snippet -- December 1985 - Vol 1 # 4
+
+When we started the newsletter in July 1985 we had just about 1400 members. Now, we're over 2100. We've grown to 12 systems (soon to be 13), with 6 CP/M systems, 5 IBM systems and a Macintosh, making Canada Remote Systems the largest operation of it's type in North America. But , we're out of space, and very busy, and it's time to close off membership, sit back, think and improve the systems that we've got.
+
+## CRS Newsletter Snippet -- Early 1986 - Vol 1 # 6
+
+We've moved, we moved. Effective immediately, our new office (a real one!) is located at: 4198 Dundas Street West Suite 311. Toronto, Ontario.
+
+We thought you might be interested in the preliminary specifications for the new US Robotics 9600 baud modem. The 9600's are still some ways away... The technology will be interesting though, as it will achieve 9600 baud on straight dial up lines (Ma Bell, watch out!)
+
+Current 1200 baud and 2400 baud modem prices (in CDN$)
+
+| Manufacturer | Baud Rates  | CDN$ Price |
+| :----- | :--- | :--- | 
+|USR Password | 300/1200 | $349|
+|Hayes Smodem | 300/1200|$659|
+|Avatex 1200 | 300/1200|$349|
+|Anchor Volks |  300/1200|$349|
+|USR Courier | 300/1200/2400 | $769|
+|Hayes 2400 | 300/1200/2400 | $959|
+|Anchor Lightening | 300/1200/2400 | $604|
+
+## CRS Newsletter Snippet -- January 1987 - Vol 2 # 4
+
+"Our Future" overview at the start of the newsletter... "As most of you are aware, we've developed relationships with organizations like PC-SIG and SIG/M that are second to none in Canada, and perhaps the world. We also run North America's largest bulletin board system, are one of USRobotics largest dealers in Canada, and generally have our fingers in a lot of different things. Much of this growth, while nice for all, has been ad hoc and very unstructured."
 
 CRS is now up to 2700 members with 16 individual computer systems. 
 
-## Jan 1988 Newsletter - Vol 3 # 4
+Their plans for 1987:
+
+- 16 workstations online at all times, accessible through two phone numbers. Mac, IBM and CP/M users will all call one of these phone numbers and will have access to all software .
+
+- 4 File servers , with online capacity of some 500+ Megabytes . Some 50 megabytes will be used internally here, but that will still leave you 450+ megabytes online at all times . We expect to allocate about 50 meg each to Mac Users and CP/M users and the balance to the MS/PC Dos World.
+
+- PCBOARD software 
+
+- A Novell Network
+
+- One (1!) message base for all
+
+- All software accessible through iNET (and 1K blocks as well)
+
+## CRS Newsletter Snippet -- January 1988 - Vol 3 # 4
 
 We currently have 32 lines into the system, including 4 iNet/Datapac lines. We have 4 more lines on order, one of which will be dedicated to the Hayes 9600 VSeries modem, one of which will be a true demo line (thereby relieving some of the pressure of non- members on the regular lines) and two of which will provide more capacity on the 232 chain.
 
-## December 1988 Newsletter - Vol 4 # 4
+## CRS Newsletter Snippet -- December 1988 - Vol 4 # 4
 
 At this time last year, we had 28 on-line systems, 1.4 gigabytes of software and 20+ user groups. CRS membership was at, the end of November, 1987, approximately 4200 in all classes. Now. we have 54 on-line systems, 3+ gigabytes of software and some 25+ user groups. Membership has grown by over 50% and at the end of November, 1988, approached 6400 users.
 
-## April 1989 Newsletter
+## CRS Newsletter Snippet -- February 1989 - Vol 4 # 5
+
+Canada Remote moved in April, 1985 with 12 computers to our current location on Dundas Street West. Now, we're at it again. Effective March 18, 1989, CRS is moving to 1331 Crestlawn Drive, Unit D, Mississauga. Our new location will offer us 4000 square feet
+of space (all on the same floor), with a custom designed computer room featuring independent air conditioning and power
+control, a combination showroom/seminar room, good shipping facilities and room to grow.
+
+## CRS Newsletter Snippet -- May 1989 - Vol 4 # 7
+
+We've been publishing our newsletter for 4 years now, and it's undergone many changes. (Our first newsletter was 6 pages and was
+published in July, 1985). We've now reached the stage where we print 8000+ newsletters every 6 weeks. So, we're pleased to announce an expansion of the newsletter from 16 to 28 pages. To be published every 6 weeks.
+
+## CRS Newsletter Snippet -- April 1989
 
 Our systems run on a Novell Network, with 68 access ports and 3000 megabytes (3.0 gigabytes) of on-line files. With full membership in Canada Remote, you have access to virtually our complete library of disks, which have thousands of files for IBM PC/MSDOS, CP/M, Commodore Amiga and C64, Atari ST, Apple Macintosh and II computers. We have extensive messaging services, and a vendor support conference. We're also the host for our own Canada Wide mail system, and link into the International SMARTNET system based in New York.
 
@@ -149,15 +245,23 @@ There are 1700+ callers per day - providing very active messaging.
 
 In 1987, our members saw us expand from 24 to 36 incoming lines. In 1988, we added 20 new phone lines, and so far, in 1989, we've added 14 new lines.
 
-## December 1989 Newsletter - Vol 5 #4
+## CRS Newsletter Snippet -- July 1989 - Vol 5 # 1
+
+CRS held an open house on June 24 1989 with attendance of over 500 people, including the Mayor of Mississauga:
+
+<div style="text-align:center">
+<img src="/Images/CRS open house - June 25 1989.jpg" alt="CRS open house - June 25 1989" style="width:75%; height:auto;">
+</div>
+
+## CRS Newsletter Snippet -- December 1989 - Vol 5 #4
 
 1989 saw us go from 54 systems to 87 systems. Virtually all new systems added these days are AT class or better, to give you the best response. 1989 also saw us go from 3+ gigabytes of storage to over 6 gigabytes. We increased the speed of the servers, backboned the network, added toll free out of town calling, and much more. When compared to our year end position at the end of 1988 (28 systems, 1.4 gigabytes of storage), this growth has been dramatic. 
 
-## Sept 1990 Mini-Newsletter
+## CRS Mini-Newsletter Snippet -- September 1990
 
 Hardware is being upgraded - by the time you get this mini-newsletter, we should  have 8 Hayes Ultra modems on-line, which will increase our V.32 capacity from 2 lines to 8 lines. We'll also be upgrading our out of town lines from 2400 baud to 14.4K baud HST's. There are currently 8 out of town lines and all will be upgraded {sorry, no V.32 on these lines} . 
 
-## July 1991 Newsletter
+## CRS Newsletter Snippet -- July 1991
 
 Since September 1990, we've added many new benefits and services to you our users: we have expanded from 94 to 143 incoming lines, allowing you even easier access to our facilities. We've gone from 8 gigabytes of on-line storage to over 19 gigabytes!
 
