@@ -1,6 +1,6 @@
 # A Potted History of "Canada Remote Systems" (aka Mississauga & Toronto RCP/M) of the 1980s
 
-This repository aims to expand upon the publicly available history for Jud Newell's "Mississauga RCP/M", "Toronto RCP/M" and "Canada Remote Systems" bulletin board (BBS) systems, starting from 1977. This history is partly from my personal experience as one of Jud Newell's first users of his "Mississauga RCP/M" (located in his home) as of February 1982. I have derived the factual information from the 1985-1991 Canada Remote Systems (CRS) member newsletters. 
+This repository aims to expand upon the publicly available history for Jud Newell's "Mississauga RCP/M", "Toronto RCP/M" and "Canada Remote Systems" bulletin board (BBS) systems, starting from 1977. This history is partly from my personal experience as one of Jud Newell's first users of his "Mississauga RCP/M" (located in his home) starting in February 1982. I have derived the factual information from the 1985-1991 Canada Remote Systems (CRS) member newsletters. I have made my partial newsletter scans (in PDF) available to other retro-computing sites for downloading.
 
 <div style="text-align:center">
 <img src="/Images/Canada Remote Systems - 2.jpg" alt="" style="width:75%; height:auto;">
