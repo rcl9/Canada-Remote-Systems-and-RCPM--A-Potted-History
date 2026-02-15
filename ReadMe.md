@@ -31,13 +31,27 @@ On February 12 to 14 1982 I signed on to most of the known Toronto BBSs for the 
 | Steve Punter's PSI/Wordpro BBS              | February 14 1982 |
 | Toronto Pet User's Group (Steve Punter BBS) | February 14 1982 |
 
-For some historical perspective, Vic Kass was one of the first key people in Toronto to start up a competitive and well known BBS ecosystem starting in 1981. I knew him from Feb 1982 onwards. His operation would be a major competitor to Jud Newell's RCP/M for much of the decade. 
+For some historical perspective, Vic Kass was one of the first key people in Toronto to start up a competitive and well known BBS ecosystem starting in 1981 (Willowdale CBBS). I knew him from Feb 1982 onwards. His operation would be a major competitor to Jud Newell's RCP/M for much of the decade. 
 
 The systems in general were pretty minimalistic in 1981-1982, basically allowing you to use their machines in a remote manner to review and download files, as well as do some basic messaging. But it was still better than not having remote system access at all prior to 1982. I recall at the time how some of them were quite lacking and sparse (ie. Apple Canada and Heathkit, as after-hours company BBSs).
 
 As a side note of interest, Steve Punter told me in February 2018 that he had visited Marketron (in Cumberland Terrace) to see the Toronto PET User's Group BBS on April 11th 1981. He had been so impressed with it that he wanted to run my own. Using some Radio Shack parts and some programming, he had his first BBS online by April 15th. Jud Newell's Mississauga RCP/M followed two weeks later.
 
-## Physical Company Locations
+## The 1978 to 1982 Pre-History to Jud Newell's "Mississauga RCP/M" - Where and How It all Started
+
+These snippets of text are from "S-100 Microsystems" magazine, vol 5 #6, July 1984, titled "RCP/M Systems: An Overview".
+
+On February 16, 1978, Ward Christensen and Randy Suess started the Chicago CBBS (Computerized Bulletin Board System) as a way for local computer hobbyists to leave messages for each other. Within this message system was a feature used in conjunction with a program called MODEM (written by Ward). It enabled CP/M computers calling the CBBS to send files back and forth. This file transfer capability of CBBS was initially known only by Ward and Randy and later a by few others, but it was there, making this the first remote-access CP/M computer network with a public message system and file transfer capabilities.
+
+The CBBS message system, written entirely in 8080 assembly language, was sold to several other computer enthusiasts, and this started several offshoots of CBBS. Keith Petersen wrote a special remote-access version of MODEM called XMODEM, and set it up on his Royal Oak MINICBBS in the Detroit area- probably the first fully public CP/M software exchange system. Tom "C" also set up his CCCC (Calamity Cliffs Computer Club) system in Lake Forest, Illinois so that the file transfer option was public. About the same time as the first CBBS systems were starting up, Kelly  Smith's CP/M-Net system was set up in Simi Valley, CA with an XMODEM type program called SENDME. Dave Jaffe wrote a program called BYE that enabled a CP/M computer equipped with a modem to be controlled by a remote system. Howard Moulton translated an SJBBS message system written in Xitan Basic to a more transportable version written in Microsoft Basic called RBBS. These people and many other experienced programmers began writing various CP/M programs that they contributed to the public domain via the bulletin boards. Thus developed what are today called RCPM (Remote CP/M) software exchange systems.
+
+As of July 1983, there were over 100 RCP/M software exchange systems  in the United States, and several in Canada, England, and even Australia. Most of these systems are public and are available for use at no charge, or for the price of a phone call. They have lots of public domain software online that you can use if you have a CP/M computer. All you need is a modem and a MODEM program that will allow you to access RCP/M systems and download the software to your computer
+
+After logging on, you will probably get a menu of functions that can be used within the message system. Most RCP/Ms have a bulletin board program such as RBBS or CBBS that performs the log-in and allows users to leave messages for each other and/or the sysop. Under CP/M, you can usually use DIR, FILEFIND, WHATSNEW, SO, or some other DIR program to see the files available on the system for downloading. Some systems will have a HELP.COM file available on-line or a THIS-SYS.DOC file that you can TYPE for more information. After you find a program you are interested in, you can usually use TYPE or TYPESQ to check it out to see if you really want it, and then use XMODEM to download it.
+
+These RCP/M systems provide two basic services. The first is that of communications between CP/M users and between users of specific languages and hardware systems. Thus you will note systems that specialize in the C language, UNIX, and support for hardware systems such as the Exidy Sorcerer, etc. This communication service is provided via a "bulletin board" maintained on most of these systems. The bulletin board system (for short called a BBS) allows users of the system to leave messages for each other. The second service provided by RCP/Ms is that of allowing immediate and wide dissemination of public domain software. A caller into an RCP/M system will find that there are many programs that can be easily downloaded to his own system. A few RCPM systems already have hard disks, and have virtually the entire SIG/M and RCP/M systems on line and available for downloading. 
+
+## Physical Company Locations of CRS
 
 | Year        | Location                                                 |
 |:----------- |:-------------------------------------------------------- |
@@ -90,7 +104,7 @@ Jud Newell purchased his first computer in 1977 which was a Cromemco Z2 black bo
 
 Jud's first remote system came online May 1, 1981, being the second oldest in Toronto (with Steve Punter's PSI/Wordpro BBS coming online April 15 1981, as noted further up in this file). His first system had one hard disk and a 1200 baud modem, both of which were unheard of for the time. There were initially 50 users (including myself) and that number had increased to 500 within a few months. In March 1982 they wanted to add a second computer using a Corvus Multiplexer but that didn't work so they  spent the money on a second hard disk which made Mississauga RCP/M even more popular. At that time Mississauga RCP/M was hosted in their home and with the computers beside their bedroom
 
-It quickly became obvious that they either had to add more systems and start charging or eliminate the systems all together. So they opted to go private on February 1st 1983 and start charging membership fees, renamed to "Toronto RCP/M Systems". There were initially 146 members and by 1989 that number had ballooned to over 7000 (an average growth of some 90% annually, compounded), with the number of phone links growing to 68.
+It quickly became obvious that they either had to add more systems and start charging or eliminate the systems all together. So they opted to go private on February 1st 1983 and start charging membership fees ($25/yr initially), renamed to "Toronto RCP/M Systems". There were initially 146 members and by 1989 that number had ballooned to over 7000 (an average growth of some 90% annually, compounded), with the number of phone links growing to 68.
 
 Out of historical interest, my personal Toronto RCP/M Systems membership fees were:
 
@@ -102,7 +116,7 @@ Out of historical interest, my personal Toronto RCP/M Systems membership fees we
 | Jan 27 1987 | $40 |
 | Jan 28 1988 | $25 |
 
-The second S-100 computer system was then added into the mix, given the new influx of membership fees, and a third S-100 machine shortly thereafter.  System three was an old Kaypro 2 with a 16 meg Xebec Hard disk . 
+The second S-100 computer system was then added into the mix with a 10MB hard disk (prior to July 1983), given the new influx of membership fees, and a third S-100 machine shortly thereafter; system three was an old Kaypro 2 with a 16 meg Xebec Hard disk . 
 
 But then the "fun started" as they began to hit critical mass. The demand for their services started to increase, and as such more and more systems were brought online:
 
