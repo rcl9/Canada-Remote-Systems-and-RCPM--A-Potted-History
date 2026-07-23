@@ -273,3 +273,8 @@ Hardware is being upgraded - by the time you get this mini-newsletter, we should
 Since September 1990, we've added many new benefits and services to you our users: we have expanded from 94 to 143 incoming lines, allowing you even easier access to our facilities. We've gone from 8 gigabytes of on-line storage to over 19 gigabytes!
 
 Our file librarians move some 3000 new files into the system monthly, categorizing them by machine type and then by topic. We have over 300 topical areas for IBM users (somewhat fewer for other machine types) and these areas are managed vigorously. We collect some 15-17 megabytes per night of software (almost triple what was collected nightly just a year ago!), and half again as much comes in through the mail throughout the month. By volume, we collect 50% more software than does our nearest competitor, and we continue to place very high priority on the file collection and the libraries.
+
+## See also
+
+[Canada Remote Systems](<https://en.wikipedia.org/wiki/Canada_Remote_Systems>) short history on Wikipedia. This better covers the 1990s closing history of the company. 
+
